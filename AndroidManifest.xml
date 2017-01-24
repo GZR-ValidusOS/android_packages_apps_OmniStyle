@@ -79,9 +79,19 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity>
         
-<activity
+        <activity
             android:name=".validus"
             android:label="Validus" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".wolf"
+            android:label="Wolf" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
