@@ -25,5 +25,8 @@ day_header entries have a higher priority then hour entries -->
 	<random_header image="val_pete_3" />
 	<random_header image="val_pete_4" />
 	<random_header image="val_pete_5" />
+	<random_header image="val_pete_6" />
+	<random_header image="val_pete_7" />
+	<random_header image="val_pete_8" />
 </daylight_headers>	
 	
