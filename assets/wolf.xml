@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <daylight_headers>
+    <meta_data creator="Syed Sajid" />
         <random_header image="wolf_1" />
 	<random_header image="wolf_2" />
 	<random_header image="wolf_3" />
